@@ -24,9 +24,11 @@ The following features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/8kKgqsz' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/2CQahZK' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with IMGUR 
+GIF created with Kap, https://getkap.co/
+and uploaded in IMGUR
+
 
 ## Notes
 
