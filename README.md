@@ -23,11 +23,12 @@ The following features are implemented:
 
 
 Here's a walkthrough of implemented features:
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBuOGV1ajc3MW92NHo0bmE4M2E5a2pjOXJpbmV4NmhtbXRmMjZldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WBwSgNa3kay8lZmIqE/giphy.gif' title='Video Walkthrough' width='100' height = "100" alt='Video Walkthrough' />
+
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBuOGV1ajc3MW92NHo0bmE4M2E5a2pjOXJpbmV4NmhtbXRmMjZldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WBwSgNa3kay8lZmIqE/giphy.gif' title='Video Walkthrough' width='800' height = "600" alt='Video Walkthrough' />
 
 
 GIF created with Kap, https://getkap.co/
-and uploaded in IMGUR
+and uploaded in GIPHY
 
 
 ## Notes
