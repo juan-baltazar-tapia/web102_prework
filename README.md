@@ -24,14 +24,13 @@ The following features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/O76rL9p' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/8kKgqsz' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with IMGUR 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-Some challenges encountered while building the app included attempting to make a flip animation on the cards when you clicked on them. I decided to shift my focus to other functionality on the frontend and responsive design.
+Some challenges encountered while building the app included attempting to make a flip animation on the cards when you clicked on them. I decided to shift my focus to other functionality on the frontend and responsive design. 
 
 ## License
 
