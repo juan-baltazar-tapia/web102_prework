@@ -23,8 +23,9 @@ The following features are implemented:
 
 
 Here's a walkthrough of implemented features:
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src='[https://imgur.com/a/2CQahZK](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBuOGV1ajc3MW92NHo0bmE4M2E5a2pjOXJpbmV4NmhtbXRmMjZldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WBwSgNa3kay8lZmIqE/giphy.gif)' title='Video Walkthrough' width='40' height = "40" alt='Video Walkthrough' />
 
-<img src='https://imgur.com/a/2CQahZK' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap, https://getkap.co/
 and uploaded in IMGUR
